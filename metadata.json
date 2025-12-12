@@ -1,0 +1,8 @@
+{
+  "name": "AgroAI Pro",
+  "description": "Fermerlar uchun sun'iy intellektga asoslangan qaror qabul qilish tizimi (DSS). Kasalliklarni aniqlash, hosil prognozi va ekin tavsiyalari.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
